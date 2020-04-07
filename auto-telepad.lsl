@@ -1,3 +1,10 @@
+// Typhaine Artez 2019
+// Auto configured region teleports network
+// Typhaine Artez (@sacrarium24.ru) - 2019
+//
+// Provided under Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International license.
+// Please be sure you read and adhere to the terms of this license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 integer NETCHAN = -423175;
 integer UPDATES = 120;
 integer OUTDATED = 600;
